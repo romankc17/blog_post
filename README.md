@@ -29,9 +29,9 @@ pip install -r requirements.txt
 
 ## Features
 
-1. ** User Authentication: ** Utilizes Django's built-in authentication system for managing authors and administrators.
+1. **User Authentication:** Utilizes Django's built-in authentication system for managing authors and administrators.
 
-2. ** Crud Operations: ** Create, Read, Update, and Delete blog posts seamlessly through the admin interface.
+2. **Crud Operations:** Create, Read, Update, and Delete blog posts seamlessly through the admin interface.
 
 
 
